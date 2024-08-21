@@ -29,8 +29,8 @@ This project analyzes a bank’s customer data to gain insights into customer be
 
 ### Clustering Analysis:
 
-- Apply K-Means clustering to segment customers based on credit score, age, balance, and estimated salary.
-- Determine the optimal number of clusters using the elbow method.
+- Apply **K-Means clustering** to segment customers based on credit score, age, balance, and estimated salary.
+- Determine the optimal number of clusters using the **elbow method**.
 - Visualize customer segments and cluster centers.
 
 ## Dataset
@@ -50,6 +50,6 @@ This project analyzes a bank’s customer data to gain insights into customer be
   - Pandas for data manipulation and analysis
   - NumPy for numerical computations
   - Matplotlib and Seaborn for data visualization
-  - Scikit-learn for machine learning and clustering
+  - **Scikit-learn** for machine learning and clustering
 
 
